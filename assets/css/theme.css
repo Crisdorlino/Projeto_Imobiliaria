@@ -1,0 +1,22 @@
+:root
+{
+    --bg-orange: #f46a05;
+    --bg-orange-hover: #d85f08;
+    --bg-black: #000000;
+    --bg-brown-1: #757575;
+    --bg-brown-2: #f4f4f4;
+    --bg-white: #ffffff;
+    --bg-yellow: #fcb705;
+    --bg-purple: #e9008c;
+
+
+    
+}
+
+    html,body
+    {
+        font-size: 16px;
+        font-family: 'Ruda', sans-serif;
+        width: 100%;
+        height: 100%;
+    }
